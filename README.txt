@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/AndreaMelendez/pen/pQdvxR.
-
+D3 ScatterPlot - FCC Project
  
